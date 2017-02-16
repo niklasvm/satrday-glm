@@ -1,0 +1,8 @@
+Instructions
+
+Install packrat
+Enable packrat
+Install caret
+Create new repository on github
+Commit changes
+Use github code in command line to push changes
